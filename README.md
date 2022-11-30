@@ -1,1 +1,2 @@
-# Crowdfunding-ETL
+# ETL Crowdfunding
+###The purpose of the repository is to accessible data from one large Excel file onto a PostgreSQL database.This way, the analytics team will be able to perform analysis and create reports for company stakeholders as well as individuals who donate to projects. In this module I have Extracted and transformed the data from the large Excel file into four separate CSV files.I also created a PostgreSQL database and tables by using an ERDI also Loading the CSV files into the databasefinally I also Performed SQL queries to generate reports for stakeholders/
